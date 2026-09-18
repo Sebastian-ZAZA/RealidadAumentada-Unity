@@ -317,25 +317,25 @@ MonoBehaviour:
   m_Name: Android
   m_EditorClassIdentifier: Unity.XR.OpenXR::UnityEngine.XR.OpenXR.OpenXRSettings
   features:
-  - {fileID: -5248481931643331811}
-  - {fileID: 5453802440675397998}
-  - {fileID: -2342707547559663187}
-  - {fileID: 6962844195619493319}
-  - {fileID: 2586221287311259701}
-  - {fileID: 8371130170003045657}
-  - {fileID: -8751889147358682696}
-  - {fileID: 8457070416298912315}
-  - {fileID: 8575118650100850908}
-  - {fileID: 8466506308396787664}
-  - {fileID: 7679351546973298883}
   - {fileID: -1361515378554645226}
+  - {fileID: -7995798259744269417}
+  - {fileID: 2586221287311259701}
+  - {fileID: 7679351546973298883}
+  - {fileID: 8575118650100850908}
+  - {fileID: -2314628007733401580}
+  - {fileID: 3118182428958994360}
   - {fileID: 3447245113735657383}
   - {fileID: -4791036935146695920}
-  - {fileID: -5849375957741632271}
-  - {fileID: 3118182428958994360}
-  - {fileID: -2314628007733401580}
+  - {fileID: 6962844195619493319}
   - {fileID: 6352823196696321201}
-  - {fileID: -7995798259744269417}
+  - {fileID: 8466506308396787664}
+  - {fileID: 8457070416298912315}
+  - {fileID: -2342707547559663187}
+  - {fileID: 5453802440675397998}
+  - {fileID: -8751889147358682696}
+  - {fileID: 8371130170003045657}
+  - {fileID: -5248481931643331811}
+  - {fileID: -5849375957741632271}
   customLoaderName: 
   m_renderMode: 1
   m_latencyOptimization: 0
@@ -348,7 +348,7 @@ MonoBehaviour:
   m_symmetricProjection: 0
   m_optimizeMultiviewRenderRegions: 0
   m_multiviewRenderRegionsOptimizationMode: 0
-  m_hasMigratedMultiviewRenderRegionSetting: 0
+  m_hasMigratedMultiviewRenderRegionSetting: 1
   m_foveatedRenderingApi: 0
   m_useOpenXRPredictedTime: 0
 --- !u!114 &-5704553946446543099
@@ -399,25 +399,25 @@ MonoBehaviour:
   m_Name: Standalone
   m_EditorClassIdentifier: Unity.XR.OpenXR::UnityEngine.XR.OpenXR.OpenXRSettings
   features:
-  - {fileID: 4831667645472673024}
-  - {fileID: 1730702266124119664}
   - {fileID: -6510971282094299904}
-  - {fileID: -5212398852750633110}
-  - {fileID: -3859751638805654753}
-  - {fileID: -2752091972034364149}
-  - {fileID: 2043261357205460606}
-  - {fileID: 5877543814395768485}
   - {fileID: -5704553946446543099}
-  - {fileID: -3397048347437095468}
-  - {fileID: 1803063501151965204}
-  - {fileID: -7886042682973165421}
-  - {fileID: -5243320920507652494}
-  - {fileID: 4768054625285078203}
-  - {fileID: 1003655673335362608}
-  - {fileID: -7288512061412581345}
+  - {fileID: 2043261357205460606}
   - {fileID: 7426272198571372041}
+  - {fileID: -7288512061412581345}
+  - {fileID: -7886042682973165421}
+  - {fileID: -3397048347437095468}
+  - {fileID: 4768054625285078203}
+  - {fileID: -5243320920507652494}
   - {fileID: -6923143102437229443}
+  - {fileID: 5877543814395768485}
+  - {fileID: -2752091972034364149}
+  - {fileID: 1803063501151965204}
+  - {fileID: 1730702266124119664}
+  - {fileID: -3859751638805654753}
+  - {fileID: -5212398852750633110}
+  - {fileID: 4831667645472673024}
   - {fileID: -2738176754985357207}
+  - {fileID: 1003655673335362608}
   customLoaderName: 
   m_renderMode: 1
   m_latencyOptimization: 0
@@ -430,7 +430,7 @@ MonoBehaviour:
   m_symmetricProjection: 0
   m_optimizeMultiviewRenderRegions: 0
   m_multiviewRenderRegionsOptimizationMode: 0
-  m_hasMigratedMultiviewRenderRegionSetting: 0
+  m_hasMigratedMultiviewRenderRegionSetting: 1
   m_foveatedRenderingApi: 0
   m_useOpenXRPredictedTime: 0
 --- !u!114 &-5248481931643331811
@@ -898,7 +898,7 @@ MonoBehaviour:
   m_symmetricProjection: 0
   m_optimizeMultiviewRenderRegions: 0
   m_multiviewRenderRegionsOptimizationMode: 0
-  m_hasMigratedMultiviewRenderRegionSetting: 0
+  m_hasMigratedMultiviewRenderRegionSetting: 1
   m_foveatedRenderingApi: 0
   m_useOpenXRPredictedTime: 0
 --- !u!114 &1730702266124119664
@@ -1239,7 +1239,7 @@ MonoBehaviour:
   lateLatchingDebug: 0
   optimizeMultiviewRenderRegions: 0
   m_multiviewRenderRegionsOptimizationMode: 0
-  m_hasMigratedMultiviewRenderRegions: 0
+  m_hasMigratedMultiviewRenderRegions: 1
   spacewarpMotionVectorTextureFormat: 0
 --- !u!114 &7241056936727467321
 MonoBehaviour:
